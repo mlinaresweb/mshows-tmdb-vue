@@ -278,6 +278,7 @@
 h1 {
   color: white;
   margin-bottom: 0.5rem;
+  margin-left: 50px;
 }
 .btn-final{
   align-self: flex-end;
@@ -308,6 +309,9 @@ h1 {
   }
   .serie {
     width: calc(50% - 2rem); 
+  }
+  .first-row-container{
+    margin-top: 0;
   }
 }
 
